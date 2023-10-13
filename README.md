@@ -18,7 +18,7 @@
 
 ## 3. Use Case Diagram ;
 
-![Use Case1](https://github.com/Agussetiaa/SistemLapbulyayasan/assets/115542822/a0e99b27-0d05-40d8-b02a-22b5d8fb3a79)
+![Usecase](https://github.com/Agussetiaa/Project-Sistem/assets/115542822/562f6040-6a06-46e9-84f6-19f9d99aefa1)
 
 ## 4. Activity Diagram ;
 
