@@ -1,6 +1,6 @@
-1. Nama Project Sistem: "Monthly Report Management System for Yayasan or Outsourcing"
+## 1. Nama Project Sistem: "Monthly Report Management System for Yayasan or Outsourcing"
 
-2. Analisis:
+## 2. Analisis:
 
    a. Permasalahannya:
       - Proses manual dalam pembuatan laporan bulanan yang memakan waktu dan rentan terhadap kesalahan manusia.
@@ -15,14 +15,14 @@
       - Aksesibilitas: Sistem harus dapat diakses oleh pengguna terkait, seperti staf yayasan atau outsourcing, untuk melihat dan menganalisis laporan bulanan.
       - Keamanan: Sistem harus melindungi data sensitif dan memiliki kontrol akses yang tepat untuk mencegah akses yang tidak sah.
 
-3. Use Case Diagram ;
+## 3. Use Case Diagram ;
 
 ![Use Case1](https://github.com/Agussetiaa/SistemLapbulyayasan/assets/115542822/a0e99b27-0d05-40d8-b02a-22b5d8fb3a79)
 
-5. Activity Diagram ;
+## 4. Activity Diagram ;
 
 ![activity1](https://github.com/Agussetiaa/SistemLapbulyayasan/assets/115542822/0c923a87-cb76-4788-82f6-dd4708e487ae)
 
-6. Sequence Diagram :
+## 5. Sequence Diagram :
 
 ![squence1](https://github.com/Agussetiaa/SistemLapbulyayasan/assets/115542822/ec5dc69c-b06f-43a2-a517-4039bd472e3c)
