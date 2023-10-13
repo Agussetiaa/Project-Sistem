@@ -17,6 +17,12 @@
 
 3. Use Case Diagram ;
 
-4. Activity Diagram ;
+![usecase1](https://github.com/Agussetiaa/SistemLapbulyayasan/assets/115542822/3958b609-51b7-4633-ae81-9fc78fe18cdf)
 
-5. Sequence Diagram :
+5. Activity Diagram ;
+
+![activity1](https://github.com/Agussetiaa/SistemLapbulyayasan/assets/115542822/0c923a87-cb76-4788-82f6-dd4708e487ae)
+
+6. Sequence Diagram :
+
+![squence1](https://github.com/Agussetiaa/SistemLapbulyayasan/assets/115542822/ec5dc69c-b06f-43a2-a517-4039bd472e3c)
