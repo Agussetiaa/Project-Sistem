@@ -18,12 +18,13 @@
 
 ## 3. Use Case Diagram ;
 
-![Usecase](https://github.com/Agussetiaa/Project-Sistem/assets/115542822/562f6040-6a06-46e9-84f6-19f9d99aefa1)
+![11111](https://github.com/Agussetiaa/Project-Sistem/assets/115542822/10bb7ed6-73d3-4108-96c7-0a89e2d527b7)
 
 ## 4. Activity Diagram ;
 
-![activity1](https://github.com/Agussetiaa/SistemLapbulyayasan/assets/115542822/0c923a87-cb76-4788-82f6-dd4708e487ae)
+![22222](https://github.com/Agussetiaa/Project-Sistem/assets/115542822/a9778176-e50d-4cf2-ba12-d7d89fb6d031)
 
 ## 5. Sequence Diagram :
 
-![squence1](https://github.com/Agussetiaa/SistemLapbulyayasan/assets/115542822/ec5dc69c-b06f-43a2-a517-4039bd472e3c)
+![33333](https://github.com/Agussetiaa/Project-Sistem/assets/115542822/b1dccdf6-da33-44c2-9a2a-3f814fbe8109)
+
