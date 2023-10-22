@@ -30,6 +30,6 @@
 
 ## 6. Class Diagram :
 
-![Class diagram1](https://github.com/Agussetiaa/Project-Sistem/assets/115542822/317f67e6-3be3-4142-a1ce-f3e5c82659d6)
+![diagramclass](https://github.com/Agussetiaa/Project-Sistem/assets/115542822/eccddc0c-1646-4600-97f0-5e0bfa87e51e)
 
 
