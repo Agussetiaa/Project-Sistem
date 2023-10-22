@@ -28,3 +28,8 @@
 
 ![33333](https://github.com/Agussetiaa/Project-Sistem/assets/115542822/b1dccdf6-da33-44c2-9a2a-3f814fbe8109)
 
+## 6. Class Diagram :
+
+![Class diagram1](https://github.com/Agussetiaa/Project-Sistem/assets/115542822/317f67e6-3be3-4142-a1ce-f3e5c82659d6)
+
+
