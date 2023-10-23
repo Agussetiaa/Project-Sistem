@@ -6,7 +6,6 @@
    
 - Proses manual dalam pembuatan laporan bulanan yang memakan waktu dan rentan terhadap kesalahan manusia.
 - Kesulitan dalam mengumpulkan dan mengelola data yang diperlukan untuk laporan bulanan.
-- Keterbatasan dalam melacak dan memantau kinerja dalam satu bulanan.
 - Keterbatasan dalam menghasilkan laporan yang akurat, lengkap, dan tepat waktu.
 
 ### b. Kebutuhan sistemnya:
