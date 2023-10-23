@@ -1,4 +1,4 @@
-## 1. Nama Project Sistem: "Sistem Laporan Bulanan Satpam Ke Yayasan Berbasis Web"
+## 1. Nama Project: "Sistem Laporan Bulanan Satpam Ke Yayasan Berbasis Web"
 
 ## 2. Analisis:
 
